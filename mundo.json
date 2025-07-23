@@ -4586,7 +4586,7 @@
     },
     {
       "name": "CentroAmerica y el caribe",
-      "superficieKM2": "",
+      "superficieKM2": 2763800,
       "mapa": "",
       "oceanos": ["Atlántico", "Pacífico"],
       "countries": [
